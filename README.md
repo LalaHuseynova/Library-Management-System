@@ -9,17 +9,21 @@ The Book Management System project is all about managing your books easily. The 
 ## How to start the program
 
 Use the Main.java to run the program
+<br><br>
 
 ![alt text](<images/Screen Shot 2024-05-10 at 4.46.07 PM.png>)
 
 ## Language Selection
 Choose one of the languages and your program will start in this language
+<br> <br>
 
 ![alt text](<images/Screen Shot 2024-05-10 at 4.41.12 PM.png>)
 
 ## Login & Registration
-
+<br><br>
 ![alt text](<images/pro1.png>)
+
+<br><br>
 ![alt text](<images/signup.png>)
 
 If you have an account, enter the username and password to go the library. If you don't then proceed registration by Sign-up button.But password should be at least 4 characters. And if you write the same name that has been used, program will shows error message.
@@ -28,9 +32,11 @@ If you have an account, enter the username and password to go the library. If yo
 ## Login & Registration in selected language
 
 ![alt text](<images/Screen Shot 2024-05-10 at 4.50.40 PM.png>)
+<br><br>
 ![alt text](<images/Screen Shot 2024-05-10 at 4.50.52 PM.png>)
 
 ## Home Page
+<br><br>
 
 ![alt text](<images/WhatsApp Image 2024-05-10 at 08.04.14.jpeg>)
 
@@ -42,20 +48,22 @@ In General database user only see the books and select them. User cannot delete 
 ![alt text](<images/WhatsApp Image 2024-05-10 at 08.04.15 (1).jpeg>)
 
 **If admin accesses to the general database**, admin can delete add change books in general database
+<br><br>
 ![alt text](<images/Screenshot 2024-05-10 215204.png>)
 
 ## Personal Database
 Compared to General Database, User can return book, add book from general database, and even create own books in personal database. 
+<br><br>
 
 ![alt text](<images/WhatsApp Image 2024-05-10 at 08.04.15.jpeg>)
 
 **Note: Admin does not any personal database**
 ***Admin can delete user and review in general database***
-
+<br><br>
 ![alt text](<images/Screenshot 2024-05-10 215517.png>)
 
 **by clicking delete Admin can delete user's review**
-
+<br><br>
 ![alt text](<images/deleteAndViewReview.png>) 
 
 
