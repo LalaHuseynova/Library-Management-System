@@ -42,7 +42,7 @@ In General database user only see the books and select them. User cannot delete 
 ![alt text](<images/WhatsApp Image 2024-05-10 at 08.04.15 (1).jpeg>)
 
 **If admin accesses to the general database**, admin can delete add change books in general database
-![alt text](<images\Screenshot 2024-05-10 215204.png>)
+![alt text](<images/Screenshot 2024-05-10 215204.png>)
 
 ## Personal Database
 Compared to General Database, User can return book, add book from general database, and even create own books in personal database. 
