@@ -19,8 +19,8 @@ Choose one of the languages and your program will start in this language
 
 ## Login & Registration
 
-![alt text](<images/WhatsApp Image 2024-05-09 at 13.36.21.jpeg>)
-![alt text](<images/WhatsApp Image 2024-05-09 at 13.36.22.jpeg>)
+![alt text](<images/pro1.png>)
+![alt text](<images/signup.png>)
 
 If you have an account, enter the username and password to go the library. If you don't then proceed registration by Sign-up button.But password should be at least 4 characters. And if you write the same name that has been used, program will shows error message.
 **Note: For admin login enter admin as a username, admin as password.**
