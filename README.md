@@ -10,16 +10,22 @@ The Book Management System project is all about managing your books easily. The 
 
 Use the Main.java to run the program
 
+
+
 ![alt text](<images/Screen Shot 2024-05-10 at 4.46.07 PM.png>)
 
 ## Language Selection
 Choose one of the languages and your program will start in this language
+
+
 
 ![alt text](<images/Screen Shot 2024-05-10 at 4.41.12 PM.png>)
 
 ## Login & Registration
 
 ![alt text](<images/pro1.png>)
+
+
 ![alt text](<images/signup.png>)
 
 If you have an account, enter the username and password to go the library. If you don't then proceed registration by Sign-up button.But password should be at least 4 characters. And if you write the same name that has been used, program will shows error message.
