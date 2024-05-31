@@ -56,7 +56,7 @@ Compared to General Database, User can return book, add book from general databa
 
 **by clicking delete Admin can delete user's review**
 
-![alt text](<images\Screenshot 2024-05-10 215617.png>) 
+![alt text](<images/deleteAndViewReview.png>) 
 
 
 
