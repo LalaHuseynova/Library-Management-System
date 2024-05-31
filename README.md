@@ -1,6 +1,6 @@
 
 
-# Team Project
+#  Library-Management-System
 
 The goal of the project is to demonstrate knowledge you have obtained throughout the semester by applying OOP principles and all the main Java concepts (e. g. Collections, Exception Handling, Generics, Lambda Expressions, File Reading/Writing, etc.).
 It is a Book Management system project. 
@@ -77,8 +77,3 @@ YouTube presentation
 link: https://www.youtube.com/watch?v=BtydM1Jog3E&t=1087s 
 
 
-## Contributers
-
-- Lala Huseynova
-- Ahmad Taghiyev
-- Afsana Mammadova
